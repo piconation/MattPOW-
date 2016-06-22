@@ -1,0 +1,20 @@
+{
+  "name": "mattpow!",
+  "version": "1.0.0",
+  "description": "Matt's Pokemon trainer and collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matt",
+    "pokemon",
+    "trainer",
+    "collection"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pokemon-ts": "^1.0.0"
+  }
+}
